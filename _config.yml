@@ -1,1 +1,3 @@
-theme: jekyll-dark-poole
+theme: jekyll-gitbook
+toc:
+    enabled: true
